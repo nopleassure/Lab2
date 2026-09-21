@@ -13,3 +13,4 @@ Increase Timeout Values
 Improve Error Messaging
 Minor Bug Fixes
 Rollback Previous Update
+Emergency Patch
